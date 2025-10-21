@@ -1,1 +1,4 @@
 la clase es sobre como utilizar git en equipo
+y
+la clase es sobre como utilizar las ramas en git practicamente
+
